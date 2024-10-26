@@ -13,9 +13,11 @@ Tools installed:
 
 Once `brew` is installed we can easily install other using brew.
 
-## [Warp](https://www.warp.dev/) can be installed using `brew install warp`.
+## [Warp](https://www.warp.dev/) 
 
-To install the [catppuccin](https://github.com/catppuccin) theme, I use the [catppuccin/warp](https://github.com/catppuccin/warp) site.
+Warp is a termianl with auto complete and AI integration, can be installed using `brew install warp`.
+
+To install the [catppuccin](https://github.com/catppuccin) theme in warp, I use the [catppuccin/warp](https://github.com/catppuccin/warp) site.
 
 ## [Nerdfonts](https://www.nerdfonts.com/)
 
