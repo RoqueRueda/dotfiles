@@ -60,7 +60,25 @@ Lazygit is used to work with git but also integration with other tools.
 
 Lazyvim, is a setup for neovim, it makes the editor feel more like an IDE, plus is fast due to it's lazy nature.
 Tutorial from [Zero to IDE with LazyVim](https://www.youtube.com/watch?v=N93cTbtLCIM)
+
 ## [SDKMan](https://sdkman.io/)
 
 SDKMan is used to install sdk packages and for working with java or kotlin
+
+## Setup neovim (lazyvim) with kotlin
+
+Since I really like neovim as an editor I want to use it with kotlin as well, lazyvim already has some integrations
+with typescript and lua however I follow [Setup Neovim for Kotlin Development](https://www.youtube.com/watch?v=v94B4BzCphU).
+
+## Kotlin
+
+To install kotlin you can simply run `sdk install kotlin`.
+
+## Gradle
+
+Same as kotlin you can installed using sdkman `sdk install gradle`.
+
+## Java
+
+Also with sdkman `sdk install java`.
 
